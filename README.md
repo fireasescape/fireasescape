@@ -9,7 +9,7 @@
 
 <h4 align="center">
   <samp style="font-family: Cursive; color: #FF4500;"> 
-    C: // Pythonista, C & C++ tamer, constantly evolving in the tech world.  
+    C: // Pythonista, C & C++ tamer, constantly learning in this world.  
   </samp>
 </h4>
 
