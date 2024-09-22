@@ -1,3 +1,6 @@
+[![Header](https://raw.githubusercontent.com/fireasescape/fireasescape/master/head_first.png "Header")](#)
+
+
 ### Welcome to Paradise
 
 > <font face="serif" color="#FF4500" size="4">*"Where all things go to burn."*</font>
